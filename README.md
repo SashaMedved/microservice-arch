@@ -81,3 +81,6 @@
 | `Name`      | `varchar(255)`   | Название проекта                            |
 | `Description` | `text`         | Описание проекта (может быть пустым)        |
 | `OwnerId`   | `UUID` / `bigint`| ID пользователя (создателя проекта)         |
+
+
+<img width="791" height="562" alt="Image" src="https://github.com/user-attachments/assets/f83e8a27-038e-45c5-9cc4-3a30048fd8f8" />
