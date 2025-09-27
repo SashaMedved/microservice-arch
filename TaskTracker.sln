@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskTracker", "TaskTracker\TaskTracker.csproj", "{469DB401-24EA-47E8-94EE-8642D1E936AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskTracker.Infrastructure", "TaskTracker.Infrastructure\TaskTracker.Infrastructure.csproj", "{97B4C0B4-3F09-4397-9907-CD5EC70844F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskTracker.Core", "TaskTracker.Core\TaskTracker.Core.csproj", "{564BC2D1-940F-49F8-A538-D66730420A06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{469DB401-24EA-47E8-94EE-8642D1E936AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{469DB401-24EA-47E8-94EE-8642D1E936AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{469DB401-24EA-47E8-94EE-8642D1E936AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{469DB401-24EA-47E8-94EE-8642D1E936AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97B4C0B4-3F09-4397-9907-CD5EC70844F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97B4C0B4-3F09-4397-9907-CD5EC70844F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97B4C0B4-3F09-4397-9907-CD5EC70844F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97B4C0B4-3F09-4397-9907-CD5EC70844F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{564BC2D1-940F-49F8-A538-D66730420A06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{564BC2D1-940F-49F8-A538-D66730420A06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{564BC2D1-940F-49F8-A538-D66730420A06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{564BC2D1-940F-49F8-A538-D66730420A06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

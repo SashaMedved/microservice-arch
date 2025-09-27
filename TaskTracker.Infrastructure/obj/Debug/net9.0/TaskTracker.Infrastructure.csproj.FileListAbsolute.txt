@@ -1,0 +1,17 @@
+C:\Users\lasko\OneDrive\Рабочий стол\TaskTracker\TaskTracker\TaskTracker.Infrastructure\bin\Debug\net9.0\TaskTracker.Infrastructure.deps.json
+C:\Users\lasko\OneDrive\Рабочий стол\TaskTracker\TaskTracker\TaskTracker.Infrastructure\bin\Debug\net9.0\TaskTracker.Infrastructure.runtimeconfig.json
+C:\Users\lasko\OneDrive\Рабочий стол\TaskTracker\TaskTracker\TaskTracker.Infrastructure\bin\Debug\net9.0\TaskTracker.Infrastructure.dll
+C:\Users\lasko\OneDrive\Рабочий стол\TaskTracker\TaskTracker\TaskTracker.Infrastructure\bin\Debug\net9.0\TaskTracker.Infrastructure.pdb
+C:\Users\lasko\OneDrive\Рабочий стол\TaskTracker\TaskTracker\TaskTracker.Infrastructure\bin\Debug\net9.0\TaskTracker.Core.dll
+C:\Users\lasko\OneDrive\Рабочий стол\TaskTracker\TaskTracker\TaskTracker.Infrastructure\bin\Debug\net9.0\TaskTracker.Core.pdb
+C:\Users\lasko\OneDrive\Рабочий стол\TaskTracker\TaskTracker\TaskTracker.Infrastructure\obj\Debug\net9.0\TaskTracker.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\lasko\OneDrive\Рабочий стол\TaskTracker\TaskTracker\TaskTracker.Infrastructure\obj\Debug\net9.0\TaskTracker.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasko\OneDrive\Рабочий стол\TaskTracker\TaskTracker\TaskTracker.Infrastructure\obj\Debug\net9.0\TaskTracker.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\lasko\OneDrive\Рабочий стол\TaskTracker\TaskTracker\TaskTracker.Infrastructure\obj\Debug\net9.0\TaskTracker.Infrastructure.AssemblyInfo.cs
+C:\Users\lasko\OneDrive\Рабочий стол\TaskTracker\TaskTracker\TaskTracker.Infrastructure\obj\Debug\net9.0\TaskTracker.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\lasko\OneDrive\Рабочий стол\TaskTracker\TaskTracker\TaskTracker.Infrastructure\obj\Debug\net9.0\TaskTrac.CA91C8E6.Up2Date
+C:\Users\lasko\OneDrive\Рабочий стол\TaskTracker\TaskTracker\TaskTracker.Infrastructure\obj\Debug\net9.0\TaskTracker.Infrastructure.dll
+C:\Users\lasko\OneDrive\Рабочий стол\TaskTracker\TaskTracker\TaskTracker.Infrastructure\obj\Debug\net9.0\refint\TaskTracker.Infrastructure.dll
+C:\Users\lasko\OneDrive\Рабочий стол\TaskTracker\TaskTracker\TaskTracker.Infrastructure\obj\Debug\net9.0\TaskTracker.Infrastructure.pdb
+C:\Users\lasko\OneDrive\Рабочий стол\TaskTracker\TaskTracker\TaskTracker.Infrastructure\obj\Debug\net9.0\TaskTracker.Infrastructure.genruntimeconfig.cache
+C:\Users\lasko\OneDrive\Рабочий стол\TaskTracker\TaskTracker\TaskTracker.Infrastructure\obj\Debug\net9.0\ref\TaskTracker.Infrastructure.dll

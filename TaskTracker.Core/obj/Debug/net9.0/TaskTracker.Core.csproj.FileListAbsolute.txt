@@ -1,0 +1,11 @@
+C:\Users\lasko\OneDrive\Рабочий стол\TaskTracker\TaskTracker\TaskTracker.Core\bin\Debug\net9.0\TaskTracker.Core.deps.json
+C:\Users\lasko\OneDrive\Рабочий стол\TaskTracker\TaskTracker\TaskTracker.Core\bin\Debug\net9.0\TaskTracker.Core.dll
+C:\Users\lasko\OneDrive\Рабочий стол\TaskTracker\TaskTracker\TaskTracker.Core\bin\Debug\net9.0\TaskTracker.Core.pdb
+C:\Users\lasko\OneDrive\Рабочий стол\TaskTracker\TaskTracker\TaskTracker.Core\obj\Debug\net9.0\TaskTracker.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasko\OneDrive\Рабочий стол\TaskTracker\TaskTracker\TaskTracker.Core\obj\Debug\net9.0\TaskTracker.Core.AssemblyInfoInputs.cache
+C:\Users\lasko\OneDrive\Рабочий стол\TaskTracker\TaskTracker\TaskTracker.Core\obj\Debug\net9.0\TaskTracker.Core.AssemblyInfo.cs
+C:\Users\lasko\OneDrive\Рабочий стол\TaskTracker\TaskTracker\TaskTracker.Core\obj\Debug\net9.0\TaskTracker.Core.csproj.CoreCompileInputs.cache
+C:\Users\lasko\OneDrive\Рабочий стол\TaskTracker\TaskTracker\TaskTracker.Core\obj\Debug\net9.0\TaskTracker.Core.dll
+C:\Users\lasko\OneDrive\Рабочий стол\TaskTracker\TaskTracker\TaskTracker.Core\obj\Debug\net9.0\refint\TaskTracker.Core.dll
+C:\Users\lasko\OneDrive\Рабочий стол\TaskTracker\TaskTracker\TaskTracker.Core\obj\Debug\net9.0\TaskTracker.Core.pdb
+C:\Users\lasko\OneDrive\Рабочий стол\TaskTracker\TaskTracker\TaskTracker.Core\obj\Debug\net9.0\ref\TaskTracker.Core.dll
