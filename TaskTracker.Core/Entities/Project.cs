@@ -8,4 +8,6 @@ public class Project
     public Guid OwnerId { get; set; }
     public DateTime CreatedAt { get; set; }
     public DateTime UpdatedAt { get; set; }
+    
+    public ICollection<ProjectMember> Members { get; set; } = new List<ProjectMember>();
 }

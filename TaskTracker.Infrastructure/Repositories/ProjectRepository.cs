@@ -58,4 +58,11 @@ public class ProjectRepository : IProjectRepository
     {
         return await _context.Projects.AnyAsync(p => p.Id == id);
     }
+    
+    public async Task<Project?> GetByIdWithMembersAsync(Guid id)
+    {
+        return await _context.Projects
+            .Include(p => p.Members)
+            .FirstOrDefaultAsync(p => p.Id == id);
+    }
 }

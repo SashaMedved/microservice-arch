@@ -16,7 +16,9 @@ builder.Services.AddDbContext<ProjectDbContext>(options =>
 
 // Регистрируем репозитории и сервисы
 builder.Services.AddScoped<IProjectRepository, ProjectRepository>();
+builder.Services.AddScoped<IProjectMemberRepository, ProjectMemberRepository>();
 builder.Services.AddScoped<IProjectService, ProjectService>();
+builder.Services.AddScoped<IProjectMemberService, ProjectMemberService>();
 
 var app = builder.Build();
 
