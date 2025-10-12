@@ -12,4 +12,5 @@ public interface IProjectService
     Task AddMemberToProjectAsync(Guid projectId, Guid userId, string role, Guid currentUserId);
     Task RemoveMemberFromProjectAsync(Guid projectId, Guid userId, Guid currentUserId);
     Task<IEnumerable<ProjectMemberDto>> GetProjectMembersAsync(Guid projectId);
+    Task<IEnumerable<ProjectMemberWithUserDto>> GetProjectMembersWithUsersAsync(Guid projectId);
 }
