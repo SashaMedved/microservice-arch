@@ -11,6 +11,9 @@
     </ItemGroup>
 
     <ItemGroup>
+      <PackageReference Include="MassTransit" Version="8.5.5-develop.2390" />
+      <PackageReference Include="MassTransit.EntityFrameworkCore" Version="8.5.5-develop.2390" />
+      <PackageReference Include="MassTransit.RabbitMQ" Version="8.5.5-develop.2390" />
       <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.3.0" />
     </ItemGroup>
 
