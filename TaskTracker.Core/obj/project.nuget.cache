@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "IGFtQ/qCFH8=",
+  "dgSpecHash": "fAb9cCOxxPw=",
   "success": true,
   "projectFilePath": "C:\\Users\\lasko\\OneDrive\\Рабочий стол\\TaskTracker\\TaskTracker\\TaskTracker.Core\\TaskTracker.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\lasko\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.10\\microsoft.extensions.caching.abstractions.9.0.10.nupkg.sha512",
+    "C:\\Users\\lasko\\.nuget\\packages\\microsoft.extensions.caching.stackexchangeredis\\9.0.10\\microsoft.extensions.caching.stackexchangeredis.9.0.10.nupkg.sha512",
+    "C:\\Users\\lasko\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.10\\microsoft.extensions.dependencyinjection.abstractions.9.0.10.nupkg.sha512",
+    "C:\\Users\\lasko\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.10\\microsoft.extensions.logging.abstractions.9.0.10.nupkg.sha512",
+    "C:\\Users\\lasko\\.nuget\\packages\\microsoft.extensions.options\\9.0.10\\microsoft.extensions.options.9.0.10.nupkg.sha512",
+    "C:\\Users\\lasko\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.10\\microsoft.extensions.primitives.9.0.10.nupkg.sha512",
+    "C:\\Users\\lasko\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\lasko\\.nuget\\packages\\stackexchange.redis\\2.9.32\\stackexchange.redis.2.9.32.nupkg.sha512",
+    "C:\\Users\\lasko\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

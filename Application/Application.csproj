@@ -14,6 +14,8 @@
       <PackageReference Include="MassTransit" Version="8.5.5-develop.2390" />
       <PackageReference Include="MassTransit.EntityFrameworkCore" Version="8.5.5-develop.2390" />
       <PackageReference Include="MassTransit.RabbitMQ" Version="8.5.5-develop.2390" />
+      <PackageReference Include="Microsoft.Extensions.Caching.StackExchangeRedis" Version="9.0.10" />
+      <PackageReference Include="StackExchange.Redis" Version="2.9.32" />
     </ItemGroup>
 
 </Project>

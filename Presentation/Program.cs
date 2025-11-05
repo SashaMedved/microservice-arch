@@ -9,6 +9,9 @@ using Infrastructure.Data;
 using Infrastructure.Repositories;
 using Application.Consumers;
 using Infrastructure.Sagas;
+using StackExchange.Redis;
+using Domain.Interfaces;
+using Infrastructure.DistributedLock;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -85,6 +88,11 @@ builder.Services.AddMassTransit(x =>
         cfg.ConfigureEndpoints(context);
     });
 });
+
+builder.Services.AddSingleton<IConnectionMultiplexer>(sp =>
+    ConnectionMultiplexer.Connect(builder.Configuration.GetConnectionString("Redis")));
+
+builder.Services.AddSingleton<IDistributedSemaphoreFactory, DistributedSemaphoreFactory>();
 
 var app = builder.Build();
 
